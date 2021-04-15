@@ -3,7 +3,7 @@ import keyboard
 
 
 def sound():
-    playsound('') #add a mp3 file in here to play when you press the buton.
+    playsound('') #add the name of the mp3 file here, you want to play when you press the buton.
 
 
 exit = True
